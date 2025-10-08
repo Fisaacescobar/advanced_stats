@@ -1,4 +1,4 @@
-Estadística Avanzada (Bootstrap, Permutaciones, FDR, PCA)
+## Estadística Avanzada (Bootstrap, Permutaciones, FDR, PCA)
 
 Pipeline práctico sin SciPy que demuestra:
 - **Bootstrap** para IC de la media (percentiles).
