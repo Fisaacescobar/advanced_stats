@@ -1,0 +1,2 @@
+n_rows,perm_diff_B_vs_A,pvalue_B_vs_A,perm_diff_C_vs_A,pvalue_C_vs_A,anova_F_obs,anova_pvalue,fdr_threshold,reject_B_vs_A,reject_C_vs_A
+1000,1.2560222340847105,0.001999500124968758,-1.343347867215229,0.0017495626093476631,17.853608207090595,0.00024993751562109475,0.05,True,True
